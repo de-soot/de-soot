@@ -8,7 +8,7 @@
 - 🔭 Working on: [osu-bpm-trainer-cli](https://github.com/de-soot/osu-bpm-trainer-cli)
 - 🌱 Learning: **C, Python, Javascript, Go, and Ruby on Rails**
 - 📫 E-mail: **de.soot@proton.me**
-- 💻 Fun Fact: I use **VSCodium** as my IDE
+- 💻 Fun Fact: I use **VSCodium**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
