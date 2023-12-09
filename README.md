@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋 I am `de_soot`</h1>
+<h1 align="center">Hello 👋 I am de_soot</h1>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=de-soot&margin-w=16&theme=monokai" alt="de-soot trophies""/></a>
