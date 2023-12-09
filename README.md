@@ -10,6 +10,8 @@
 - 📫 E-mail: **de.soot@proton.me**
 - 💻 Fun Fact: I use **VSCodium**
 
+---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/de_soot" target="blank">
@@ -20,6 +22,8 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucwwffxqq2xcobjcxx9sexww" height="30" width="40"/>
   </a>
 </p>
+
+#
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -66,6 +70,8 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   </a>
 </p>
+
+#
 
 <h3 align="left">Statistics:</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=de-soot&show_icons=true&locale=en" alt="de-soot"/></p>
