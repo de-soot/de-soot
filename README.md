@@ -1,13 +1,13 @@
-<h1 align="center">Hello 👋 I am de_soot</h1>
+<h1 align="center">Hello 👋 I am `de_soot`</h1>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=de-soot&margin-w=16&theme=monokai" alt="de-soot trophies""/></a>
 </p>
 
 - 🔭 Working on: **[osu-bpm-trainer-cli](https://github.com/de-soot/osu-bpm-trainer-cli)**
-- 🌱 Learning: **C**, **Python**, **Javascript**, **Go**, and **Ruby on Rails**
-- 📫 E-mail: **de.soot@proton.me**
-- 💻 Fun Fact: I use **VSCodium**
+- 🌱 Learning: `C`, `Python`, `Javascript`, `Go`, and `Ruby on Rails`
+- 📫 E-mail: `de.soot@proton.me`
+- 💻 Fun Fact: I use `VSCodium`
 
 ---
 
