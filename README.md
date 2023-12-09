@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I am de_soot</h1>
+<h1 align="center">Hello 👋 I am de_soot</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=de-soot&label=Profile%20views&color=0e75b6&style=flat" alt="de-soot" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=de-soot" alt="de-soot" /></a> </p>
@@ -8,7 +8,7 @@
 - 🔭 Working on: [osu-bpm-trainer-cli](https://github.com/de-soot/osu-bpm-trainer-cli)
 - 🌱 Learning: **C, Python, Javascript, Go, and Ruby on Rails**
 - 📫 E-mail: **de.soot@proton.me**
-- 💻 IDE: **VSCodium**
+- 💻 Fun Fact: I use **VSCodium** as my IDE
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
