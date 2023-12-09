@@ -1,8 +1,7 @@
 <h1 align="center">Hello 👋 I am de_soot</h1>
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=de-soot&label=Profile%20views&color=0e75b6&style=flat" alt="de-soot"/></p>
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=de-soot" alt="de-soot"/></a>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=de-soot&margin-w=16&theme=monokai" alt="de-soot trophies""/></a>
 </p>
 
 - 🔭 Working on: [osu-bpm-trainer-cli](https://github.com/de-soot/osu-bpm-trainer-cli)
@@ -74,7 +73,10 @@
 #
 
 <h3 align="left">Statistics:</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=de-soot&show_icons=true&locale=en" alt="de-soot"/></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=de-soot&" alt="de-soot"/></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=de-soot&show_icons=true&locale=en&layout=compact" alt="de-soot"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=de-soot&show_icons=true&theme=monokai" alt="de-soot"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=de-soot&theme=monokai" alt="de-soot"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=de-soot&show_icons=true&theme=monokai" alt="de-soot"/></p>
 
+#
+
+<p align="left"><img src="https://komarev.com/ghpvc/?username=de-soot&label=Profile%20views&color=0e75b6&style=flat" alt="de-soot"/></p>
