@@ -1,4 +1,7 @@
 # de_soot
 
-- 🔭 Currently working on `osu-bpm-trainer-cli`
-- 🌱 Currently learning `C`, `Python`, `Javascript`, `Go`, `Ruby`, and `Rails`
+- Working on: `osu-bpm-trainer-cli`
+- Learning: `C`, `Python`, `Javascript`, `Go`, `Ruby`, and `Rails`
+<!--
+- Contacts: 
+--!>
