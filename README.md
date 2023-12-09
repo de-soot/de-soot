@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=de-soot" alt="de-soot" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/de_soot" target="blank"><img src="https://img.shields.io/twitter/follow/de_soot?logo=twitter&style=for-the-badge" alt="de_soot" /></a> </p>
-
 - 🔭 Working on: [osu-bpm-trainer-cli](https://github.com/de-soot/osu-bpm-trainer-cli)
 - 🌱 Learning: **C, Python, Javascript, Go, and Ruby on Rails**
 - 📫 E-mail: **de.soot@proton.me**
