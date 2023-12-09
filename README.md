@@ -1,17 +1,25 @@
 <h1 align="center">Hello 👋 I am de_soot</h1>
 
+#
+
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=de-soot&margin-w=16&theme=monokai" alt="de-soot trophies""/></a>
 </p>
+
+#
 
 - 🔭 Working on: **[osu-bpm-trainer-cli](https://github.com/de-soot/osu-bpm-trainer-cli)**
 - 🌱 Learning: `C`, `Python`, `Javascript`, `Go`, and `Ruby on Rails`
 - 📫 E-mail: `de.soot@proton.me`
 - 💻 Fun Fact: I use `VSCodium`
 
+#
+
 ---
 
-<h3 align="left">Connect with me:</h3>
+#
+
+### Connect with me
 <p align="left">
   <a href="https://twitter.com/de_soot" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="de_soot" height="30" width="40"/>
@@ -24,7 +32,7 @@
 
 #
 
-<h3 align="left">Languages and Tools:</h3>
+### Languages and Tools
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
@@ -72,9 +80,15 @@
 
 #
 
-<h3 align="left">Statistics:</h3>
+### Statistics
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=de-soot&show_icons=true&theme=monokai" alt="de-soot"/></p>
+
+#
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=de-soot&theme=monokai" alt="de-soot"/></p>
+
+#
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=de-soot&show_icons=true&theme=monokai" alt="de-soot"/></p>
 
 #
