@@ -19,19 +19,6 @@
 
 #
 
-<h3 align="center">Connect with me</h3>
-<p align="center">
-  <a href="https://twitter.com/de_soot" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="de_soot" height="30" width="40"/>
-  </a>
-  
-  <a href="https://www.youtube.com/c/ucwwffxqq2xcobjcxx9sexww" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucwwffxqq2xcobjcxx9sexww" height="30" width="40"/>
-  </a>
-</p>
-
-#
-
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -90,6 +77,19 @@
 #
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=de-soot&show_icons=true&theme=monokai" alt="de-soot"/></p>
+
+#
+
+<h3 align="center">Connect with me</h3>
+<p align="center">
+  <a href="https://twitter.com/de_soot" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="de_soot" height="30" width="40"/>
+  </a>
+  
+  <a href="https://www.youtube.com/c/ucwwffxqq2xcobjcxx9sexww" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucwwffxqq2xcobjcxx9sexww" height="30" width="40"/>
+  </a>
+</p>
 
 #
 
