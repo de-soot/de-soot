@@ -19,21 +19,21 @@
 
 #
 
-### Connect with me
-<p align="left">
+<h3 align="center">Connect with me</h3>
+<p align="center">
   <a href="https://twitter.com/de_soot" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="de_soot" height="30" width="40"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="de_soot" height="30" width="40"/>
   </a>
   
   <a href="https://www.youtube.com/c/ucwwffxqq2xcobjcxx9sexww" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucwwffxqq2xcobjcxx9sexww" height="30" width="40"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucwwffxqq2xcobjcxx9sexww" height="30" width="40"/>
   </a>
 </p>
 
 #
 
-### Languages and Tools
-<p align="left">
+<h3 align="center">Languages and Tools</h3>
+<p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   </a>
@@ -80,17 +80,17 @@
 
 #
 
-### Statistics
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=de-soot&show_icons=true&theme=monokai" alt="de-soot"/></p>
+<h3 align="center">Statistics</h3>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=de-soot&show_icons=true&theme=monokai" alt="de-soot"/></p>
 
 #
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=de-soot&theme=monokai" alt="de-soot"/></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=de-soot&theme=monokai" alt="de-soot"/></p>
 
 #
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=de-soot&show_icons=true&theme=monokai" alt="de-soot"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=de-soot&show_icons=true&theme=monokai" alt="de-soot"/></p>
 
 #
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=de-soot&label=Profile%20views&color=0e75b6&style=flat" alt="de-soot"/></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=de-soot&label=Profile%20views&color=0e75b6&style=flat" alt="de-soot"/></p>
