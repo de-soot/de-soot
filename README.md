@@ -11,7 +11,7 @@
 - 🔭 Working on: **[osu-bpm-trainer-cli](https://github.com/de-soot/osu-bpm-trainer-cli)**
 - 🌱 Learning: `C`, `Python`, `Javascript`, `Go`, and `Ruby on Rails`
 - 📫 E-mail: `de.soot@proton.me`
-- 💻 Fun Fact: I use **[VSCodium](https://vscodium.com/)** as my code-editor of choice
+- 💻 Fun Fact: I use **[VSCodium](https://vscodium.com/)**
 
 #
 
