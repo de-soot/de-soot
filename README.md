@@ -38,7 +38,7 @@
 #
 
 <details>
-  <summary>Statistics</summary>
+  <summary><b>==========================================Statistics==========================================</b></summary>
   <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=de-soot&margin-w=16&theme=monokai" alt="de-soot's github trophies">
     <img src="https://github-readme-stats.vercel.app/api?username=de-soot&show_icons=true&theme=monokai" alt="de-soot's github stats">
