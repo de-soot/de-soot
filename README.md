@@ -2,10 +2,10 @@
 
 ---
 
-<p align="center">- 🔭 Working on: <a rel="nofollow noopener noreferrer" target="blank" href="https://github.com/de-soot/osu-bpm-trainer-cli"><b>osu! BPM Trainer</b></a> and <a rel="nofollow noopener noreferrer" target="blank" href="https://github.com/de-soot/de-soot.github.io"><b>My Personal Website</b></a></p>
-<p align="center">- 🌱 Learning: <b>C</b>, <b>Python</b>, <b>Javascript</b>, <b>Go</b>, and <b>Ruby on Rails</b></p>
-<p align="center">- 📫 E-mail: <a href="mailto:de.soot@proton.me"><b>de.soot@proton.me</b></a></p>
-<p align="center">- 💻 Fun Fact: I use <a href="https://vscodium.com/"><b>VSCodium</b></a></p>
+<p align="center">> 🔭 Working on: <a rel="nofollow noopener noreferrer" target="blank" href="https://github.com/de-soot/osu-bpm-trainer-cli"><b>osu! BPM Trainer</b></a> and <a rel="nofollow noopener noreferrer" target="blank" href="https://github.com/de-soot/de-soot.github.io"><b>My Personal Website</b></a></p>
+<p align="center">> 🌱 Learning: <b>C</b>, <b>Python</b>, <b>Javascript</b>, <b>Go</b>, and <b>Ruby on Rails</b></p>
+<p align="center">> 📫 E-mail: <a href="mailto:de.soot@proton.me"><b>de.soot@proton.me</b></a></p>
+<p align="center">> 💻 Fun Fact: I use <a href="https://vscodium.com/"><b>VSCodium</b></a></p>
 
 #
 
