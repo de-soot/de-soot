@@ -29,7 +29,7 @@
 
 #
 
-<h3 align="center">Connect with me</h3>
+<h3 align="center">Connect with me on Social Media</h3>
 <p align="center">
   <a href="https://twitter.com/de_soot" rel="nofollow noopener noreferrer" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="de_soot" width="50" height="50"/></a>
   <a href="https://www.youtube.com/c/ucwwffxqq2xcobjcxx9sexww" rel="nofollow noopener noreferrer" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucwwffxqq2xcobjcxx9sexww" width="50" height="50"/></a>
