@@ -9,6 +9,15 @@
 
 #
 
+<h3 align="center">Connect with me on Social Media</h3>
+<p align="center">
+  <a href="https://www.youtube.com/c/ucwwffxqq2xcobjcxx9sexww" rel="nofollow noopener noreferrer" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="de_soot's Youtube Channel" width="50" height="50"/></a>
+  <a href="https://twitter.com/de_soot" rel="nofollow noopener noreferrer" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="de_soot's Twitter Account" width="50" height="50"/></a>
+  <a href="https://www.instagram.com/de_soot" rel="nofollow noopener noreferrer" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="de_soot's Instagram Profile" width="50" height="50"/></a>
+</p>
+
+#
+
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="50" height="50"/>
@@ -25,15 +34,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" alt="SQLite" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
-</p>
-
-#
-
-<h3 align="center">Connect with me on Social Media</h3>
-<p align="center">
-  <a href="https://www.youtube.com/c/ucwwffxqq2xcobjcxx9sexww" rel="nofollow noopener noreferrer" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="de_soot's Youtube Channel" width="50" height="50"/></a>
-  <a href="https://twitter.com/de_soot" rel="nofollow noopener noreferrer" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="de_soot's Twitter Account" width="50" height="50"/></a>
-  <a href="https://www.instagram.com/de_soot" rel="nofollow noopener noreferrer" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="de_soot's Instagram Profile" width="50" height="50"/></a>
 </p>
 
 #
