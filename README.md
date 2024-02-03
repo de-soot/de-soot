@@ -2,7 +2,7 @@
 
 ---
 
-<p align="center">> 🔭 Working on: <a href="https://github.com/de-soot/osu-bpm-trainer-cli" rel="nofollow noopener noreferrer" target="blank"><b>osu! BPM Trainer</b></a> and <a href="https://github.com/de-soot/de-soot.github.io" rel="nofollow noopener noreferrer" target="blank"><b>my personal website</b></a></p>
+<p align="center">> 🔭 Working on: <a href="https://github.com/de-soot/osu-bpm-trainer-cli" rel="nofollow noopener noreferrer" target="blank"><b>osu! bpm trainer</b></a> and <a href="https://github.com/de-soot/de-soot.github.io" rel="nofollow noopener noreferrer" target="blank"><b>my personal website</b></a></p>
 <p align="center">> 🌱 Learning: <b>C</b>, <b>Python</b>, <b>Javascript</b>, <b>Go</b>, and <b>Ruby on Rails</b></p>
 <p align="center">> 📫 E-mail: <a href="mailto:de.soot@proton.me" rel="nofollow noopener noreferrer" target="blank"><b>de.soot@proton.me</b></a></p>
 <p align="center">> 💻 Fun Fact: I use <a href="https://vscodium.com/" rel="nofollow noopener noreferrer" target="blank"><b>VSCodium</b></a></p>
