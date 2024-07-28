@@ -1,7 +1,7 @@
 <details>
   <summary><b>☰ Statistics</b></summary>
-  <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=de-soot&margin-w=16&theme=monokai" alt="de-soot's Github Trophies">
+  <p>
+    <img src="https://github-profile-trophy.vercel.app/?username=de-soot&margin-w=12&theme=monokai" alt="de-soot's Github Trophies">
     <img src="https://github-readme-stats.vercel.app/api?username=de-soot&show_icons=true&theme=monokai" alt="de-soot's Github Stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=de-soot&theme=monokai" alt="de-soot's Github Streak Stats">
   </p>
